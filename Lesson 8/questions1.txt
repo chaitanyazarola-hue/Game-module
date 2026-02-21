@@ -1,0 +1,27 @@
+What gas do plants use to make food?,Oxygen,Carbon Dioxide,Nitrogen,Hydrogen,2
+How many days are there in a leap year?,364,365,366,367,3
+Which animal is known as the king of the jungle?,Tiger,Elephant,Lion,Giraffe,3
+What is the boiling point of water in degrees Celsius?,50,75,90,100,4
+Which ocean is the largest?,Indian Ocean,Atlantic Ocean,Arctic Ocean,Pacific Ocean,4
+How many continents are there?,Five,Six,Seven,Eight,3
+What do bees produce?,Milk,Wax,Honey,Silk,3
+Which shape has three sides?,Square,Triangle,Rectangle,Circle,2
+What is the main source of energy for Earth?,The Moon,The Sun,Wind,Water,2
+Which metal is attracted to a magnet?,Copper,Aluminium,Iron,Gold,3
+What is the fastest land animal?,Elephant,Lion,Cheetah,Horse,3
+Which planet is closest to the Sun?,Earth,Mars,Venus,Mercury,4
+What do humans breathe in to survive?,Carbon Dioxide,Oxygen,Helium,Nitrogen,2
+How many legs does a spider have?,Six,Seven,Eight,Nine,3
+What is the hardest natural substance?,Gold,Iron,Diamond,Silver,3
+Which season comes after spring?,Winter,Summer,Autumn,Spring,2
+What do you call frozen water?,Ice,Snow,Steam,Hail,1
+Which country is famous for the Eiffel Tower?,Germany,Italy,France,Spain,3
+How many hours are there in a day?,12,18,24,36,3
+What colour do you get when you mix red and blue?,Green,Purple,Orange,Yellow,2
+Which animal can live both on land and in water?,Dog,Bird,Fish,Frog,4
+What planet do humans live on?,Mars,Venus,Earth,Jupiter,3
+What is the smallest prime number?,0,1,2,3,3
+What do plants need for photosynthesis?,Sunlight,Sound,Electricity,Plastic,1
+Which instrument has six strings?,Piano,Drums,Guitar,Flute,3
+What is the main ingredient in bread?,Sugar,Flour,Salt,Oil,2
+Which direction does the sun rise?,North,South,East,West,3
