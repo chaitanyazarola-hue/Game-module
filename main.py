@@ -80,7 +80,7 @@ def on_mouse_down(pos):
                 correct_answer()
             else:
                 game_over()
-            index +=1
+        index +=1
         if skip_box.collidepoint(pos):
             skip_question()
 
@@ -108,14 +108,7 @@ def update_time_left():
         game_over()
 
 read_question_file()
-question-read_next_question()
+question=read_next_question()
 clock.schedule_interval(update_time_left,1)
-
-pgzrun.go()
-
-
-
-
-
 
 pgzrun.go()
