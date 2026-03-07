@@ -77,7 +77,7 @@ def update():
         direction = direction * -1
 
     for enemy in enemies:
-        enemy.x +=5*direction
+        enemy.x +=5*direction 
         if movedown == True:   
             enemy.y += 50
         if enemy.y > HEIGHT:
@@ -112,4 +112,4 @@ def draw():
 
 pgzrun.go()
 
-#                
+#                 
