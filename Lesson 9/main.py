@@ -56,12 +56,7 @@ def update():
             ship.x += speed
             if ship.x >=WIDTH:
                 ship.x=WIDTH
-
-    if keyboard.space:
-        print("Pressing Space")
-        bullets.append(Actor("bullet"))
-        bullets[-1].x=ship.x
-        bullets[-1].y=ship.y 
+ 
  
     for bullet in bullets:
         if bullet.y < 0:
@@ -89,7 +84,7 @@ def update():
                 enemies.remove(enemy)
                 if len(enemies) == 0:
                     gameover()
-        if ship.colliderect(ship):
+        if enemy.colliderect(ship):
             ship.dead = True
     if ship.dead:
         ship.countdown -=1
